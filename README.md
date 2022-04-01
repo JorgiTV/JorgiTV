@@ -22,7 +22,7 @@
 > 🇵🇱 Główne projekty do których aktualnie należę:   
 > 🇺🇸 Major projects I am currently a part of:
 
-- [<img align="left" alt="mineCodes" width="52px" src="https://avatars.githubusercontent.com/u/79703096?s=200&v=4" /> **mineCodes**](https://minecodes.pl) - This is a plugin writing group worth recommending, run by [arthurr0](https://github.com/arthurr0). Their projects can be found on [team github](https://github.com/mineCodesDevelopment), among others. All detailed information can be found on their [discord](https://discord.gg/invite/37NXPX7tdc).
+- [<img align="left" alt="mineCodes" width="52px" src="https://avatars.githubusercontent.com/u/79703096?s=200&v=4" /> **mineCodes**](https://minecodes.pl) - This is a plugin writing group worth recommending, run by [arthurr0](https://github.com/arthurr0). Their projects can be found on [team github](https://github.com/mineCodesDevelopment), among others. All detailed information can be found on their [discord](https://discord.gg/37NXPX7tdc).
 
 - [<img align="left" alt="EternalCode" width="52px" src="https://avatars.githubusercontent.com/u/91019812?s=200&v=4" /> **EternalCode**](https://eternalcode.pl/) - If you need plugins, maps, vps or machine configuration, setting up a panel like Pterodactyl then go to them! All their projects can be found on [github](https://github.com/EternalCodeTeam). If you are interested or want to join the server please go to [discord](https://discord.gg/7FFFbqSdpU)
 
