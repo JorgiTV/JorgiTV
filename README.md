@@ -4,7 +4,6 @@
 > 🇵🇱 Używane przeze mnie języki programowania oraz środowiska:  
 > 🇺🇸 The programming languages and environments I use:
 
-<img align="left" alt="Java" width="32px" src="https://simpleicons.org/icons/java.svg"/>
 <img align="left" alt="JavaScript" width="32px" src="https://simpleicons.org/icons/javascript.svg"/>
 <img align="left" alt="TypeScript" width="32px" src="https://simpleicons.org/icons/typescript.svg"/>
 <img align="left" alt="Python" width="32px" src="https://simpleicons.org/icons/python.svg"/>
