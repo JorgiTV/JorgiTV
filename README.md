@@ -23,6 +23,6 @@
 
 - [<img align="left" alt="mineCodes" width="52px" src="https://avatars.githubusercontent.com/u/79703096?s=200&v=4" /> **mineCodes**](https://minecodes.pl) - This is a plugin writing group worth recommending, run by [arthurr0](https://github.com/arthurr0). Their projects can be found on [team github](https://github.com/mineCodesDevelopment), among others. All detailed information can be found on their [discord](https://discord.gg/37NXPX7tdc).
 
-- [<img align="left" alt="EternalCode" width="52px" src="https://avatars.githubusercontent.com/u/91019812?s=200&v=4" /> **EternalCode**](https://eternalcode.pl/) - If you need plugins, maps, vps or machine configuration, setting up a panel like Pterodactyl then go to them! All their projects can be found on [github](https://github.com/EternalCodeTeam). If you are interested or want to join the server please go to [discord](https://discord.gg/7FFFbqSdpU)
-
+<!-- - [<img align="left" alt="EternalCode" width="52px" src="https://avatars.githubusercontent.com/u/91019812?s=200&v=4" /> **EternalCode**](https://eternalcode.pl/) - If you need plugins, maps, vps or machine configuration, setting up a panel like Pterodactyl then go to them! All their projects can be found on [github](https://github.com/EternalCodeTeam). If you are interested or want to join the server please go to [discord](https://discord.gg/7FFFbqSdpU)
+ -->
 <!-- - [<img align="left" alt="CookieMC" width="52px" src="https://cdn.discordapp.com/icons/904747632499499109/62827ab51334651ffc67a4f3f15f76b9.webp?size=1024" /> **CookieMC**](https://cookiemc.pl/) - Smaller polish minecraft server with minigames like: BedWars or TheBridge. Server owners are DraToRGamesYTT and CPotworek. If you want to play on the server go to `cookiemc.pl` and have fun! -->
