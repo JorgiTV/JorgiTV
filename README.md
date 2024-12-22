@@ -34,4 +34,4 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/463393359331983371)](https://discord.com/users/463393359331983371)
 
 ### 🎃 All projects to which I belong:
-- [<img align="left" alt="mineCodes" width="52px" src="https://avatars.githubusercontent.com/u/79703096?s=200&v=4" /> **mineCodes**](https://minecodes.pl) - This is a plugin writing group worth recommending, run by [arthurr0](https://github.com/arthurr0). Their projects can be found on [team github](https://github.com/mineCodesDevelopment), among others. All detailed information can be found on their [discord](https://discord.gg/37NXPX7tdc).
+- [**musket.in**](https://musket.in) - Implementation of projects for clients of **Musket Industries** agency. Implementation of services for **COUGAR Gaming** and **KTS Weszło**.
